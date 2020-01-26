@@ -38,3 +38,4 @@ INSERT INTO posts (poster_id, body)
 
 SELECT * FROM users;
 SELECT * FROM posts;
+-- SELECT * From likes;
